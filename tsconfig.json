@@ -4,6 +4,7 @@
     "target": "es5",
     "module":"es2015",
     "lib": ["dom", "esnext", "DOM.Iterable"],
+    "downlevelIteration": true,
     "strict": true,
     "sourceMap": true,
     "declaration": true,
